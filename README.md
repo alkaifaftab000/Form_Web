@@ -10,11 +10,13 @@ This web form, built using Flutter, incorporates several advanced features to en
 ## Learning Outcomes
 
 - **Advanced UI/UX Design**: Learn how to implement modern design elements like backdrop filters, radiant text, and interactive icons to create visually appealing web forms.
--  **Form Validation and Management**: Gain insights into handling form validation and managing multiple input fields efficiently using Flutter's Form widget.
+- **Form Validation and Management**: Gain insights into handling form validation and managing multiple input fields efficiently using Flutter's Form widget.
 
 ## Output Screen
-![{AC2E80F8-74A6-4348-BB9B-8C8E957CC7DE}](https://github.com/user-attachments/assets/dafee12d-5259-4468-a4ce-141c79fd6d8e)
-![{3A355DAC-3A40-49C4-B5EB-5326C7818027}](https://github.com/user-attachments/assets/49fc0b30-f614-4906-a173-a6554648780e)
+![{A1D85F52-5575-48D0-B390-9C1CDED6E3D3}](https://github.com/user-attachments/assets/de777336-6de4-4c25-9732-3d5fd7c35d4c)
+![{1B7AE7E0-CD82-4BD3-B9D0-52D691D55E4D}](https://github.com/user-attachments/assets/491503dc-d920-4bc5-b4b2-73807863754b)
+
+
 
 
 
